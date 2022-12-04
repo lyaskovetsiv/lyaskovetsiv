@@ -5,19 +5,7 @@
 * 📚 Finished OTUS online cource "iOS developer.Basic"
 * 📫 How to reach me: [Telegram](https://t.me/lyaskovetsiv), [email](lyaskovets.iv@gmail.com)
 
-<!--
-**lyaskovetsiv/lyaskovetsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Current techical stack:
 
 - Language: Swift
 - UI&Layout: Storyboards / Programmatic, Flow / Compositional layout, SnapKit / NSLayoutConstraints
@@ -28,5 +16,3 @@ Here are some ideas to get you started:
 - Cocoapods, SwiftPackagManager
 - OOP, POP, SOLID
 - Git and GitHub
-
--->
