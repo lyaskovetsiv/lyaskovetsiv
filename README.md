@@ -14,5 +14,5 @@ Current techical stack:
 - Multithreading: GCD, NSOperation
 - Architectures: MVC
 - Cocoapods, SwiftPackagManager
-- OOP, POP, SOLID
+- OOP, SOLID
 - Git and GitHub
