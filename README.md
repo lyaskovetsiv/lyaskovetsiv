@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm @lyaskovetsiv
 
-🔭 I’m currently looking at trainee\junior iOS position.
-🎓 I've got a degree in Informational systems & technologies (SPBGETU "LETI")
-📚 Finished OTUS online cource "iOS developer.Basic"
-📫 How to reach me: Telegram(https://t.me/lyaskovetsiv), email(lyaskovets.iv@gmail.com)
+* 🔭 I’m currently looking at trainee\junior iOS position.
+* 🎓 I've got a degree in Informational systems & technologies (SPBGETU "LETI")
+* 📚 Finished OTUS online cource "iOS developer.Basic"
+* 📫 How to reach me: [Telegram](https://t.me/lyaskovetsiv), [email](lyaskovets.iv@gmail.com)
 
 <!--
 **lyaskovetsiv/lyaskovetsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
