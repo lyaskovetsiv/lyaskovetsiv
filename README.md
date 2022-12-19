@@ -12,7 +12,7 @@ Current techical stack:
 - Storage: CoreData, Firebase (Auth, Storage, Firestrore), UserDefaults
 - Network: URLSession, JSON, REST API
 - Multithreading: GCD, NSOperation
-- Architectures: MVC
+- Architectures: MVC, MVP
 - Cocoapods, SwiftPackagManager
 - OOP, SOLID
 - Git and GitHub
