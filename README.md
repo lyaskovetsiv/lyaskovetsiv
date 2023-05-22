@@ -1,10 +1,8 @@
-### Hi there 👋
-
-Languages and Tools:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### Hi there, I'm Ivan Lyaskovets! 👋
 
 <!--
 **lyaskovetsiv/lyaskovetsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
