@@ -1,17 +1,15 @@
-### Hi there, I'm Ivan Lyaskovets! 👋
+# Hi there, I'm Ivan Lyaskovets! 👋
+### iOS Developer from Saint-Peterburg, Russia 🇷🇺
 
-<!--
-**lyaskovetsiv/lyaskovetsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
 
+🎓 Education
+- I've got a degreee in Informational Systems and Technologies (LETI) - 2013
+- Completed a course "iOS Developer. Basic" on the OTUS educational platform - 2022
+- Finished studying at the Tinkoff Fintech School - 2023
 
-Here are some ideas to get you started:
+💻 Technologies: 
+Swift, UIKit, Autolayout, UserDefaults, FileManager, CoreData, FireBase, ARC, URLSession, JSON, REST API, GCD, Operation, OperationQueue, Figma, Combine, Animations, Unit tests, UITests, TestPlans, GitHub Actions, SwiftLint, CICD, MVP, SOA, Fastlane, SSE, MVC, CleanSwift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+@lyaskovets (Telegram) or lyaskovets.iv@gmail.com
