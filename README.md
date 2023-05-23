@@ -12,4 +12,4 @@
 Swift, UIKit, Autolayout, Frames, UserDefaults, FileManager, CoreData, FireBase, ARC,URLSession, GCD, NSOperations, JSON, REST API, Figma, Combine, Animations, Unit tests, UITests, TestPlans, Git, GitHub, GitHub Actions, SwiftLint, CICD, SOA, Fastlane, SSE, MVC, MVP, CleanSwift
 
 #### 📫 How to reach me 
-@lyaskovets (Telegram) or lyaskovets.iv@gmail.com
+@lyaskovetsiv (Telegram) or lyaskovets.iv@gmail.com
