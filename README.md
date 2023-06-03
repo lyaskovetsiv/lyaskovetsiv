@@ -13,4 +13,5 @@ Swift, UIKit, Autolayout, Frames, UserDefaults, FileManager, CoreData, FireBase,
 
 #### 📫 How to reach me 
 - [Telegram](https://t.me/lyaskovetsiv)
-- Email: lyaskovets.iv@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lyaskovets-ivan)
+- [Email](lyaskovets.iv@gmail.com)
