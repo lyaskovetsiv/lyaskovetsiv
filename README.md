@@ -9,7 +9,7 @@
 - Finished studying at the Tinkoff Fintech School - 2023
 
 #### 💻 Technologies
-Swift, UIKit, Autolayout, Frames, UserDefaults, FileManager, CoreData, FireBase, ARC,URLSession, GCD, NSOperations, JSON, REST API, Figma, Combine, Animations, Unit tests, UITests, TestPlans, Git, GitHub, GitHub Actions, SwiftLint, CICD, SOA, Fastlane, SSE, MVC, MVP, CleanSwift
+Swift, UIKit, Autolayout, Frames, UserDefaults, FileManager, CoreData, FireBase, ARC, URLSession, GCD, NSOperations, JSON, REST API, Figma, Combine, Animations, Unit tests, UITests, TestPlans, Git, GitHub, GitHub Actions, SwiftLint, CICD, SOA, Fastlane, SSE, MVC, MVP, CleanSwift
 
 #### 📫 How to reach me 
 - [Telegram](https://t.me/lyaskovetsiv)
