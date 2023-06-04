@@ -20,7 +20,8 @@
 | Reative        | Combine                                            |
 | Testing        | UnitTests, UITests, TestPlans                      |
 | Architectures  | MVC, MVP, CleanSwift, SOA                          |
-| Frameworks     | SwiftLint, SDWebImage                              |
+| Frameworks     | SwiftLint, SDWebImage, SnapKit                     |
+| Dependencies   | SwiftPackageManager, CocoaPods                     |
 | Instruments    | Xcode, Figma, Postman, Fastlane                    |
 | Other          | Git, GitHub, GitHub Actions,  CoreAnimation, CICD  |
 
