@@ -23,7 +23,8 @@
 | Frameworks     | SwiftLint, SDWebImage, SnapKit                     |
 | Dependencies   | SwiftPackageManager, CocoaPods                     |
 | Instruments    | Xcode, Figma, Postman, Fastlane                    |
-| Other          | Git, GitHub, GitHub Actions,  CoreAnimation, CICD  |
+| Git            | Git, GitHub, GitHub Actions,                       |
+| Other          | CoreAnimation, CICD                                |
 
 
 #### 📫 How to reach me 
