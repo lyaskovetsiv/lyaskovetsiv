@@ -26,6 +26,11 @@
 | Git            | Git, GitHub, GitHub Actions,                       |
 | Other          | CoreAnimation, CICD                                |
 
+#### 🛠 Activities
+
+<img width="818" alt="Снимок экрана 2023-06-07 в 20 03 01" src="https://github.com/lyaskovetsiv/lyaskovetsiv/assets/100786077/81a82e91-3430-441f-ad9d-2725d1120f8d">
+
+
 
 #### 📫 How to reach me 
 - [Telegram](https://t.me/lyaskovetsiv)
