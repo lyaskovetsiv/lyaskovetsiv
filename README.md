@@ -8,7 +8,7 @@
 - Completed a course "iOS Developer. Basic" on the OTUS educational platform - 2022
 - Finished studying at the Tinkoff Fintech School - 2023
 
-#### 💻 Technologies (used is pet-projects)
+#### 💻 Technologies
 
 | Type           | Technologies & Instruments                         |
 |----------------|----------------------------------------------------|
