@@ -10,21 +10,8 @@
 
 #### 💻 Technologies
 
-| Type           | Technologies & Instruments                         |
-|----------------|----------------------------------------------------|
-| Language       | Swift                                              |
-| UI             | UIKit, Autolayout, Frames, Storyboards, Xibs, Code |
-| Persistence    | UserDefaults, FileManager, CoreData, FireBase      |
-| Network        | URLSession, REST API, JSON, SSE                    |
-| Multithreading | GCD, Operations                                    |
-| Reative        | Combine                                            |
-| Testing        | UnitTests, UITests, TestPlans                      |
-| Architectures  | MVC, MVP, CleanSwift, SOA                          |
-| Frameworks     | SwiftLint, SDWebImage, SnapKit                     |
-| Dependencies   | SwiftPackageManager, CocoaPods                     |
-| Instruments    | Xcode, Figma, Postman, Fastlane                    |
-| Git            | Git, GitHub, GitHub Actions,                       |
-| Other          | CoreAnimation, CICD                                |
+- Using:  Swift, UIKit, Storyboards, Xibs, Programmatic, Figma, CoreData, UserDefaults, FileManager, URLSession, JSON, REST, GCD, MVC, MVP, SOA, Cocoapods, SwiftPackageManager, SnapKit, SDWebImage, OOP, POP, SOLID, DRY, KISS, YAGNI, Git, GitHub
+-  Haved an experience with:  CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, NSOperation, CleanSwift, XCTest, UnitTests, UITests, TestPlans, SwiftLint, Fastlane, GitHub Actions, CICD
 
 #### 📫 How to reach me 
 - [Telegram](https://t.me/lyaskovetsiv)
