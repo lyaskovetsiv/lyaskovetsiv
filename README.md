@@ -11,7 +11,7 @@
 #### 💻 Technologies
 
 - Using:  Swift, UIKit, Storyboards, Xibs, Programmatic, Figma, CoreData, UserDefaults, FileManager, URLSession, JSON, REST, GCD, MVC, MVP, SOA, Cocoapods, SwiftPackageManager, SnapKit, SDWebImage, OOP, POP, SOLID, DRY, KISS, YAGNI, Git, GitHub
--  Haved an experience with:  CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, NSOperation, CleanSwift, XCTest, UnitTests, UITests, TestPlans, SwiftLint, Fastlane, GitHub Actions, CICD
+-  Haved an experience with:  CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, VIPER, MVVM, NSOperation, CleanSwift, XCTest, UnitTests, UITests, TestPlans, SwiftLint, Fastlane, GitHub Actions, CICD
 
 #### 📫 How to reach me 
 - [Telegram](https://t.me/lyaskovetsiv)
