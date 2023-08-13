@@ -1,22 +1,22 @@
-# Hi there, I'm Ivan Lyaskovets! 👋
-## iOS Developer from Saint-Peterburg, Russia 🇷🇺
+# Всем привет, меня зовут Иван Лясковец! 👋
+## Я iOS разработчик из Санкт-Петербурга 🇷🇺
 
-### About me:
+### Обо мне:
 
-#### 🎓 Education
-- I've got a degreee in Informational Systems and Technologies (LETI) - 2013
-- Completed a course "iOS Developer. Basic" on the OTUS educational platform - 2022
-- Finished studying at the Tinkoff Fintech School - 2023
+#### 🎓 Образование
+- Высшее техническое "Информационные системы и технологии" (бакалавр, СПБГЭТУ (ЛЭТИ)) - 2013
+- Окончил курс "iOS Developer. Basic" на образовательном платформе OTUS - 2022
+- Выпускник финтех школы Тинькофф по направлению "iOS разработка" - 2023
 
-#### 💻 Tech Stack
+#### 💻 Технический стек
 
-| Category | Frameworks & technologies |
+| Категория | Фреймворки и технологии |
 |----------|----------|
-| Using   | Swift, UIKit, Storyboards, Xibs, Programmatic, Figma, CoreData, UserDefaults, FileManager, URLSession, JSON, REST, GCD, MVC, MVP, SOA, Cocoapods, SwiftPackageManager, SnapKit, SDWebImage, OOP, POP, SOLID, DRY, KISS, YAGNI, Git, GitHub   |
-| Haved an experience    | CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, VIPER, MVVM, NSOperation, CleanSwift, XCTest, UnitTests, UITests, TestPlans, SwiftLint, Fastlane, GitHub Actions, CICD   |
-| Studying | SwiftUI  |
+| Использую   | Swift, UIKit, Storyboards, Xibs, Programmatic, Figma, CoreData, UserDefaults, FileManager, URLSession, JSON, REST, GCD, MVC, MVP, SOA, Cocoapods, SwiftPackageManager, SnapKit, SDWebImage, OOP, POP, SOLID, DRY, KISS, YAGNI, Git, GitHub, SwiftLint  |
+| Имел опыт   | CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, VIPER, MVVM, NSOperation, CleanSwift, XCTest, UnitTests, UITests, TestPlans, Fastlane, GitHub Actions, CICD   |
+| Изучаю | SwiftUI  |
 
-#### 📫 How to reach me 
+#### 📫 Контакты
 - [Telegram](https://t.me/lyaskovetsiv)
 - [LinkedIn](https://www.linkedin.com/in/lyaskovets-ivan)
 - lyaskovets.iv@gmail.com
