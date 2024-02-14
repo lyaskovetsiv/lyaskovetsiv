@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/lyaskovets-ivan">
+  <a href="https://www.linkedin.com/in/lyaskovets-ivan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="lyaskovets.iv@gmail.com">
+  <a href="mailto:lyaskovets.iv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/lyaskovetsiv">
