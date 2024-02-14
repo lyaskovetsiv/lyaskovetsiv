@@ -20,16 +20,16 @@
 
 
 
-#### 💼 Карьера 
+### 💼 Карьера 
 - ITCron (Москва, удаленно) - с авг. 2023 по настоящее время
 
-#### 🎓 Образование
+### 🎓 Образование
 - Высшее техническое: "Информационные системы и технологии" (ЛЭТИ) - 2013
 - Окончил курс "iOS Developer. Basic" на образовательной платформе OTUS - 2022
 - Выпускник финтех школы Тинькофф по направлению "iOS разработка" - 2023
 - Прохожу курс "Middle iOS-developer" на SwiftBook
 
-#### 💻 Технический стек
+### 💻 Технический стек
 
 | Категория | Фреймворки и технологии |
 |----------|----------|
@@ -37,7 +37,7 @@
 | Имел опыт   | CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, NSOperation, XCTest, UnitTests, UITests, TestPlans, Fastlane, GitHub Actions, CICD  |
 | Изучаю | rxSwift, rxCocoa  |
 
-#### 📈 Статистика
+### 📈 Статистика
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lyaskovetsiv&theme=dark&background=000000)](https://git.io/streak-stats) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyaskovetsiv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
