@@ -38,7 +38,6 @@
 |----------|----------|
 | Использую   | Swift, UIKit, Storyboards, Xibs, Programmatic, Figma, CoreData, UserDefaults, FileManager, URLSession, JSON, REST, GCD, MVC, MVP, MVVM, SOA, VIPER, CleanSwift, Cocoapods, SwiftPackageManager, SnapKit, SDWebImage, OOP, POP, SOLID, DRY, KISS, YAGNI, Git, GitHub, Gitlab, SwiftLint, UML-diagrams |
 | Имел опыт   | CoreAnimation, Firebase (Auth, Storage, Firestrore), KeyChain, SSE, Combine, NSOperation, XCTest, UnitTests, UITests, TestPlans, Fastlane, GitHub Actions, CICD  |
-| Изучаю | rxSwift, rxCocoa  |
 
 <br>
 
